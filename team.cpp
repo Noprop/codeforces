@@ -5,25 +5,17 @@ int main()
 {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
-	
-  int t;
-  cin >> t;
 
-  int out = 0;
+  int t, n, a, b, c;
+  cin >> t;
+  n = 0;
+
   while (t--) {
-    int tot = 0;
-    int temp;
-    for (int i = 0; i < 3; i++) {
-      cin >> temp;
-      tot += temp;
-    }
-    if (tot >= 2) {
-      out += 1;
-    }
+    cin >> a >> b >> c;
+    a + b + c >= 2 ? n++ : n;
   }
 
-  cout << out;
-  cout << "\n";
+  cout << n;
 
   return 0;
 }
