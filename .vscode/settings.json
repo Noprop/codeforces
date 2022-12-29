@@ -65,6 +65,26 @@
     "valarray": "cpp",
     "map": "cpp",
     "set": "cpp",
-    "unordered_set": "cpp"
+    "unordered_set": "cpp",
+    "__tree": "cpp",
+    "cfenv": "cpp",
+    "cinttypes": "cpp",
+    "condition_variable": "cpp",
+    "csetjmp": "cpp",
+    "csignal": "cpp",
+    "deque": "cpp",
+    "forward_list": "cpp",
+    "fstream": "cpp",
+    "future": "cpp",
+    "iomanip": "cpp",
+    "list": "cpp",
+    "numeric": "cpp",
+    "queue": "cpp",
+    "random": "cpp",
+    "regex": "cpp",
+    "scoped_allocator": "cpp",
+    "stack": "cpp",
+    "thread": "cpp",
+    "typeindex": "cpp"
   }
 }
