@@ -61,6 +61,10 @@
     "unordered_map": "cpp",
     "utility": "cpp",
     "vector": "cpp",
-    "__bits": "cpp"
+    "__bits": "cpp",
+    "valarray": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "unordered_set": "cpp"
   }
 }
